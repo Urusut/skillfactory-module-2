@@ -1,7 +1,6 @@
 # Проект 2. Разведывательный анализ данных
 Данный проект состоит из двух частей:
-- тренировочный кейс, посвящённый разведывательному анализу данных (EDA) на примере исследования качества шоколадных батончиков [chocolate_bars](https://github.com/SeaVulf/skillfactory_rds/tree/master/project_2_EDA/chocolate_bars);
-- самостоятельный проект по разведывательному анализу данных учащихся, представленный ноутбуком [Project_2_EDA_stud_math.ipynb](https://github.com/SeaVulf/skillfactory_rds/tree/master/project_2_EDA/Project_2_EDA_stud_math.ipynb) вспомогательным модулем с написанными функциями [mod_eda.py](https://github.com/SeaVulf/skillfactory_rds/tree/master/project_2_EDA/mod_eda.py) и исходным датасетом [stud_math.csv](https://github.com/SeaVulf/skillfactory_rds/tree/master/project_2_EDA/stud_math.csv)
+- самостоятельный проект по разведывательному анализу данных учащихся, представленный ноутбуком [Project_2_EDA_stud_math.ipynb](https://github.com/Urusut/skillfactory-module-2/blob/master/Project_2_EDA_stud_math.ipynb) и исходным датасетом [stud_math.csv](https://github.com/Urusut/skillfactory-module-2/blob/master/stud_math.xls)
 
 ## Разведывательный анализ данных учащихся
 
